@@ -13,12 +13,12 @@ A fully normalized relational database designed to manage university events, stu
 
 | Tab | Screenshot |
 |---|---|
-| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotsSTUDENTS/app_students.png) |
-| **Events** — browse events with venue, type, status, and registration count | ![Events](screenshotsEVENTS/app_events.png) |
-| **Organizations** — list organizations and view their active members side by side | ![Organizations](screenshotsORG/app_organizations.png) |
-| **Venues** — browse venues with capacity and approval requirements | ![Venues](screenshotsVEN/app_venues.png) |
-| **Statistics** — live dashboard with totals for users, events, organizations, and venues | ![Statistics](screenshotsSTAT/app_statistics.png) |
-| **Faculty & Staff** — list faculty advisors and staff members side by side | ![Faculty & Staff](screenshotsSTAFF/app_faculty_staff.png) |
+| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotsSTUDENTS.png) |
+| **Events** — browse events with venue, type, status, and registration count | ![Events](screenshotsEVENTS.png) |
+| **Organizations** — list organizations and view their active members side by side | ![Organizations](screenshotsORG.png) |
+| **Venues** — browse venues with capacity and approval requirements | ![Venues](screenshotsVEN.png) |
+| **Statistics** — live dashboard with totals for users, events, organizations, and venues | ![Statistics](screenshotsSTAT.png) |
+| **Faculty & Staff** — list faculty advisors and staff members side by side | ![Faculty & Staff](screenshotsSTAFF.png) |
 
 > Built with Python and Tkinter, the app connects directly to `campus_events.db` and reflects changes in real time — no SQL required.
 
