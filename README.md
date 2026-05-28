@@ -4,16 +4,16 @@ A fully normalized relational database designed to manage university events, stu
 
 ---
 
-## 📸 ERD
+## 📸 Screenshots
 
 ### Entity-Relationship Diagram
 ![ERD](ERD.png)
 
-### 📸 Interactive Desktop App
+### Interactive Desktop App
 
 | Tab | Screenshot |
 |---|---|
-| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotSTUDENTS.png) |
+| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotsSTUDENTS.png) |
 | **Events** — browse events with venue, type, status, and registration count | ![Events](screenshotsEVENTS.png) |
 | **Organizations** — list organizations and view their active members side by side | ![Organizations](screenshotsORG.png) |
 | **Venues** — browse venues with capacity and approval requirements | ![Venues](screenshotsVEN.png) |
@@ -98,7 +98,7 @@ python explore_database.py
 - **SQLite** — relational database engine
 - **SQL** — schema design, constraints, triggers, indexes
 - **Python** — interactive GUI app and database explorer script
-- **Tkinter** — desktop GUI framework
+- **CustomTkinter** — modern desktop GUI framework with dark mode support
 
 ---
 
@@ -124,6 +124,11 @@ python explore_database.py
 ```bash
 git clone https://github.com/VelosoMiguel/campus-event-database.git
 cd campus-event-database
+```
+
+**Install dependencies:**
+```bash
+pip install -r requirements.txt
 ```
 
 **Create the database and schema:**
