@@ -13,7 +13,7 @@ A fully normalized relational database designed to manage university events, stu
 
 | Tab | Screenshot |
 |---|---|
-| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotsSTUDENTS.png) |
+| **Students** — search, add, and list students by name, email, role, and major | ![Students](screenshotSTUDENTS.png) |
 | **Events** — browse events with venue, type, status, and registration count | ![Events](screenshotsEVENTS.png) |
 | **Organizations** — list organizations and view their active members side by side | ![Organizations](screenshotsORG.png) |
 | **Venues** — browse venues with capacity and approval requirements | ![Venues](screenshotsVEN.png) |
