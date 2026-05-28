@@ -180,4 +180,4 @@ python explore_database.py
 ## 👤 Author
 
 **Miguel Veloso**  
-[GitHub](https://github.com/VelosoMiguel) · [LinkedIn](#)
+[GitHub](https://github.com/VelosoMiguel) · [LinkedIn](https://www.linkedin.com/in/miguel-veloso-91355b372/)
